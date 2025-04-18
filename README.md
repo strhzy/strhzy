@@ -32,5 +32,5 @@ I’m a full-stack developer with experience in backend, frontend, database mana
 - **Office Tools**: Microsoft Office (Excel, PowerPoint, Word)
 
 ## 🌐 Contact Me
-- [LinkedIn](www.linkedin.com/in/alexei-polezhaikovski-11b9b0344)
+- [LinkedIn](https://www.linkedin.com/in/alexei-polezhaikovski-11b9b0344)
 - [Email](alexeydm2@gmail.com)
