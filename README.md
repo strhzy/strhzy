@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Alex!
+# Hi, I’m Alex!
 
 I’m a full-stack developer with experience in backend, frontend, database management, and mobile development. I’m open to collaboration and exciting projects!
 
-## 🛠 Skills & Technologies
+## Skills & Technologies
 ### Backend Development
 - **Languages & Frameworks**: C#, .NET, ASP.NET Core, Blazor, Razor Pages, WPF
 - **Tools & APIs**: Entity Framework, LINQ, REST API Development
@@ -31,6 +31,7 @@ I’m a full-stack developer with experience in backend, frontend, database mana
 - **IDE**: Visual Studio, Visual Studio Code, JetBrains Rider, IntelliJ IDEA, Android Studio, NeoVim
 - **Office Tools**: Microsoft Office (Excel, PowerPoint, Word)
 
-## 🌐 Contact Me
+## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/alexei-polezhaikovski-11b9b0344)
 - [Email](alexeydm2@gmail.com)
+- [Telegram](https://t.me/strhzy)
